@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maram Mejri</h1>
 <h3 align="center">A passionate with data and results</h3>
-<img src="https://github.com/marammejri12/rishavchanda/assets/167470141/9ca0dde6-255e-406e-9a70-572dbda88a5c" alt="Hello Dribbble!" style="float: right; width: 400px;">
-
+<img src="https://github.com/marammejri12/marammejri12/assets/167470141/196f9d89-1f37-4017-88d5-081716087807" alt="Hello Dribbble!" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marammejri12&label=Profile%20views&color=0e75b6&style=flat" alt="marammejri12" /> </p>
 
